@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/amichat/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/amichat/build" />
+      <excludeFolder url="file://$MODULE_DIR$/amichat/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flash-chat/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flash-chat/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flash-chat/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Parking/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Parking/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Parking/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ngo/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ngo/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ngo/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/clima_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/clima_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/clima_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mybot/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mybot/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mybot/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dicee-flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dicee-flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dicee-flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/FlashChat/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/FlashChat/build" />
+      <excludeFolder url="file://$MODULE_DIR$/FlashChat/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Amihub/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Amihub/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Amihub/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bmicalculator/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/bmicalculator/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bmicalculator/build" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
